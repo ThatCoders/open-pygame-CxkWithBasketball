@@ -9,6 +9,7 @@ import supply
 from pygame.locals import *
 from random import *
 
+# 坤哥保佑,代码永无BUG
 # 初始化pygame
 pygame.init()
 # 初始化pygame的音频模块
